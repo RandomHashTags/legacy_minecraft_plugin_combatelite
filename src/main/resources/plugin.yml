@@ -1,0 +1,4 @@
+name: CombatElite
+version: ${project.version}
+main: CombatElite
+author: RandomHashTags

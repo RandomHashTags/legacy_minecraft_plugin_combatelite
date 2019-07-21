@@ -1,0 +1,12 @@
+# Made by RandomHashTags
+enable-tick-delay-mobs: true
+# Measured in ticks. 20 ticks = 1 second. 10 ticks = half a second. (Default minecraft tick delay is 20 ticks)
+tick-delay-mobs: 20
+# The tick delay will not work on these types of mobs
+# Mobs types can be found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html
+blacklisted-entities:
+- "armor_stand"
+#
+enable-tick-delay-players: false
+# Measured in ticks. 20 ticks = 1 second. 10 ticks = half a second. (Default minecraft tick delay is 20 ticks)
+tick-delay-players: 20
