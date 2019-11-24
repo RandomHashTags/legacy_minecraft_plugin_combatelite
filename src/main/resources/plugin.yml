@@ -1,4 +1,4 @@
 name: CombatElite
 version: ${project.version}
-main: CombatElite
+main: me.randomHashTags.CombatElite.CombatElite
 author: RandomHashTags
